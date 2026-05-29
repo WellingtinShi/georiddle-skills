@@ -20,7 +20,6 @@ If this repository only contains this one skill, this shorter command should als
 npx skills add WellingtinShi/georiddle-skills -g -a codex
 ```
 
-Replace `YOUR_GITHUB_USERNAME` with the GitHub account or organization that owns the repository.
 
 ## Use
 
