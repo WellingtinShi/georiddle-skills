@@ -1,0 +1,3 @@
+﻿display_name: GeoRiddle 命题核实
+short_description: 生成并核实硬核地理猜题，附证据和答案解析
+default_prompt: Use $georiddle-maker to create and verify a rigorous geography riddle.
